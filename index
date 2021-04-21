@@ -7,7 +7,7 @@
 <meta-tag name="keywords" content="HTML,CSS,XML,JavaScript,Software Tester,computerhub,Computer Hub,Resume Web,testing,tester,software,client,project">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    
-		<link rel="apple-touch-icon" sizes="120x120" href="/img/favicon.png" /> <link rel="apple-touch-icon" sizes="152x152" href="/img/favicon.png" />
+		<link rel="apple-touch-icon" sizes="120x120" href="/img/favicon.ico" /> <link rel="apple-touch-icon" sizes="152x152" href="/img/favicon.ico" />
         <title>Harsh Sharma,Software Tester,Resume Web</title>
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="css/bootstrap.css">
