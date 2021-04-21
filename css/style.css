@@ -2495,7 +2495,8 @@ h6 {
 .wel_item {
   border: 1px solid #eeeeee;
   padding: 20px 20px;
-  border-radius: 5px; }
+  border-radius: 5px;
+margin-top: 10px; }
   .wel_item i {
     font-size: 24px;
     background: linear-gradient(to right, #766dff 0%, #86e7ff 70%);
@@ -2554,7 +2555,9 @@ h6 {
   background-image: -moz-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
   background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
   background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%); }
-
+  .fa-cog {
+    color: blue;
+  }
 .tabs_inner .nav.nav-tabs {
   display: block;
   text-align: center;
@@ -2753,7 +2756,7 @@ h6 {
     .personal_text .personal_social li a {
       line-height: 40px;
       width: 40px;
-      background: #e8e8e8;
+      background: radial-gradient(circle, rgba(63,94,251,1) 38%, rgba(20,110,232,1) 70%, rgba(125,70,252,1) 100%);
       border-radius: 5px;
       display: inline-block;
       text-align: center;
